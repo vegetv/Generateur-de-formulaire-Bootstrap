@@ -1,8 +1,5 @@
 <?php
 
-namespace Tutoriel\HTML;
-
-
 /** permet de generer un formulaire simplement
 * class Form
 */
