@@ -2,9 +2,7 @@
 
 allows to generate a bootstrap form
 
-- usage
-
-
+usage
 
 	require('class/Autoloader.php');
 	Autoloader::register();
@@ -15,11 +13,9 @@ allows to generate a bootstrap form
 	<div class="container">
 		<div class="row">
 			<form action="" method="post" class="form-group col-lg-3 ">
-				<?php
-					echo $form->input('username');
-					echo $form->input('password');
-					echo $form->submit();
-				?>
+				echo $form->input('username');
+				echo $form->input('password');
+				echo $form->submit();
 			</form>
 		</div>
 	</div>
