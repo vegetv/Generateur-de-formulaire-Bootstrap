@@ -4,9 +4,6 @@ allows to generate a bootstrap form
 
 usage
 
-	require('class/Autoloader.php');
-	Autoloader::register();
-
 	$form = new BootstrapForm($_POST);
 
 
