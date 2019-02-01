@@ -4,13 +4,13 @@ allows to generate a bootstrap form
 
 - usage
 
-<?php
 
-		require('class/Autoloader.php');
-		Autoloader::register();
 
-		$form = new BootstrapForm($_POST);
-?>
+	require('class/Autoloader.php');
+	Autoloader::register();
+
+	$form = new BootstrapForm($_POST);
+
 
 	<div class="container">
 		<div class="row">
