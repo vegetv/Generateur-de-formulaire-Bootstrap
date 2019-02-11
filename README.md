@@ -1,4 +1,4 @@
-#Bootstrap-Form-Generator
+Bootstrap-Form-Generator
 
 allows to generate a bootstrap form
 
